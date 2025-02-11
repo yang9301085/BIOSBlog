@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://yang9301085.github.io/BIOSBlog/sitemap.xml
+User-agent: * Disallow: Sitemap: https://yang9301085.github.io//sitemap.xml
