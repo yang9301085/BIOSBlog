@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://yang9301085.github.io//BIOSBlog# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
+User-agent: * Disallow: Sitemap: https://yang9301085.github.io//sitemap.xml
