@@ -25,7 +25,7 @@ images:
 
 ### 图片示例
 
-![测试图片](https://via.placeholder.com/150)
+![测试图片](https://picsum.photos/200)
 
 ### 链接示例
 
